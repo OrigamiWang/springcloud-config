@@ -13,3 +13,5 @@ spring:
   application: 
     name: springcloud-config-wyx-test
 # UTF-8保存
+
+# 测试GitHub的操作
