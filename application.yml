@@ -8,14 +8,14 @@ spring:
   application: 
     name: springcloud-config-wyx-dev66
 config:
-  info: "成功通过controller读取到GitHub上的内容"
+  info: "成功通过controller读取到GitHub上的内容dev"
 ---
 spring: 
   profiles: test   #测试环境
   application: 
     name: springcloud-config-wyx-test77
 config:
-  info: "成功通过controller读取到GitHub上的内容"
+  info: "成功通过controller读取到GitHub上的内容test"
 # UTF-8保存
 
 # 测试GitHub的操作
